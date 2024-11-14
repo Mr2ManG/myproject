@@ -1,2 +1,3 @@
-Please run it with Eclipse IDE.
 Unpack and use the compressed file.
+Run it on drive C.
+Please run it with Eclipse IDE.
